@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class FuelCost {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         double gallons = 0;
